@@ -1,0 +1,10 @@
+PINS: (see connections.txt)
+CAMERA-JACK: pi-camera
+
+USB-1: left open for any removable device
+USB-2: mic
+USB-3: Bluetooth dongle
+USB-4: Wifi adapter
+
+AUDIO-JACK: speaker
+ETHERNET: LAN
